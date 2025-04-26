@@ -7,3 +7,6 @@ venv
 *.sqlite3
 
 DjangoPracticeRepo\django-test\mytestsite\mytestsite\__pycache__
+DjangoPracticeRepo\client\node_modules
+DjangoPracticeRepo\backend\venv
+DjangoPracticeRepo\backend\backend\__pycache__
