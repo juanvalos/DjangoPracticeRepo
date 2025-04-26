@@ -5,3 +5,5 @@ venv
 
 # Database
 *.sqlite3
+
+DjangoPracticeRepo\django-test\mytestsite\mytestsite\__pycache__
